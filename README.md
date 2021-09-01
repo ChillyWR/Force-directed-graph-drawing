@@ -1,6 +1,6 @@
 # Force-directed-graph-drawing
 Draw a graph using net forces (https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
-+ BFS on a graph
+And run BFS on a graph
 
 Source.cpp parses input (by default input.txt)
 GraphGUI.cpp builds graph
