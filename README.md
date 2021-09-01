@@ -7,6 +7,6 @@ Source.cpp parses input (by default input.txt).
 Algorithms.cpp finds shortest path between two vertices (BFS).
 
 GraphGUI.cpp builds graph and enlightens path found by BSF.
-Enter key is bound to show each edge on the path.
+"Enter" key is bound to show each edge on the path.
 
 Project uses SFML library (https://www.sfml-dev.org/)
