@@ -51,7 +51,7 @@ std::vector<std::vector<unsigned int>> input_form_matrix(std::istream& stream) {
 int main() {
 	std::string input = "input.txt";
 	std::string gen_input = "generated_input.txt";
-	std::ifstream file(gen_input);
+	std::ifstream file(input);
 	GraphGUI* graph;
 	sf::RenderWindow window(sf::VideoMode(1024, 720), "Graph");
 	try {
